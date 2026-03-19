@@ -2,7 +2,7 @@
 
 Estudiante de **Licenciatura en Sistemas** en la Universidad Nacional de La Plata (**UNLP**), apasionado por el desarrollo de software y la arquitectura de sistemas. Me enfoco en crear soluciones escalables y eficientes mientras me desempeño como ayudante de cátedra en materias de programación de la UNLP.
 
-!(assets/DancingFrankSinatraGIF.gif)
+![](assets/DancingFrankSinatraGIF.gif)
 
 ---
 
