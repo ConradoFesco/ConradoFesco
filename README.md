@@ -2,6 +2,8 @@
 
 Estudiante de **Licenciatura en Sistemas** en la Universidad Nacional de La Plata (**UNLP**), apasionado por el desarrollo de software y la arquitectura de sistemas. Me enfoco en crear soluciones escalables y eficientes mientras me desempeño como ayudante de cátedra en materias de programación de la UNLP.
 
+!(assets/DancingFrankSinatraGIF.gif)
+
 ---
 
 ### 🚀 Proyectos Destacados
@@ -11,7 +13,7 @@ Sistema automatizado de procesamiento de recibos para la gestión de gastos oper
 * **Foco:** Automatización, procesamiento de datos y conexión con APIs.
 
 #### 🏛️ [Explor.Ar](https://github.com/ConradoFesco/Explor.Ar---Proyecto-universitario)
-Historic Sites Management System para gestionar sitios, usuarios y datos geográficos.
+Sistema de sitios históricos para gestionar sitios, usuarios y datos geográficos.
 * **Foco:** Arquitectura Backend y manejo de bases de datos relacionales.
 
 #### 🚗 [AutoRental](https://github.com/ConradoFesco/AutoRental---Proyecto-universitario)
@@ -19,7 +21,7 @@ Aplicación web completa para la automatización del ciclo de vida del alquiler 
 * **Foco:** Lógica de negocio y desarrollo Fullstack.
 
 #### 🍎 [Juegos sobre Nutrición](https://github.com/ConradoFesco/Juegos-sobre-Nutricion---Proyecto-universitario)
-Proyecto universitario enfocado en el sector salud utilizando programación interactiva.
+Pequeño proyecto universitario enfocado en el sector salud utilizando programación interactiva.
 * **Foco:** Desarrollo orientado a objetos y gamificación.
 
 ---
