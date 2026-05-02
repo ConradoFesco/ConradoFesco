@@ -1,6 +1,6 @@
 # ¡Hola! Soy Conrado Federico Escobares 👋
 
-Estudiante de **Licenciatura en Sistemas** en la Universidad Nacional de La Plata (**UNLP**), apasionado por el desarrollo de software y la arquitectura de sistemas. Me enfoco en crear soluciones escalables y eficientes mientras me desempeño como ayudante de cátedra en materias de programación de la UNLP.
+Actualmente trabajo como **Desarrollador Full Stack** utilizando **Django** y **React** para el **Ministerio de Hacienda y Finanzas de la Provincia de Buenos Aires**. Soy estudiante de **Licenciatura en Sistemas** en la Universidad Nacional de La Plata (**UNLP**), apasionado por el desarrollo de software y la arquitectura de sistemas. Me enfoco en crear soluciones escalables y eficientes mientras que también me desempeño como ayudante de cátedra en materias de programación de la UNLP.
 
 <div align="center">
   <img src="assets/DancingFrankSinatraGIF.gif" alt="Descripción de la demo" width="35%" max-width="200px" />
